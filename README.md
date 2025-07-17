@@ -16,6 +16,8 @@ I'm a **Communication and Computer Electronics Engineering** student with a stro
 ![Verilog](https://img.shields.io/badge/Verilog-1E90FF?style=for-the-badge&logo=verilog&logoColor=white)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-1E90FF?style=for-the-badge&logo=verilog&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-800080?style=for-the-badge&logo=vhdl&logoColor=white)
+
+**Verification Methodologies:**
 ![UVM](https://img.shields.io/badge/UVM-FF6600?style=for-the-badge&logo=uvm&logoColor=white)
 
 **Programming & Embedded:**
@@ -34,6 +36,9 @@ I'm a **Communication and Computer Electronics Engineering** student with a stro
 ![Vivado](https://img.shields.io/badge/Vivado-FF6600?style=for-the-badge&logo=xilinx&logoColor=white)
 ![Quartus](https://img.shields.io/badge/Quartus-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![ModelSim](https://img.shields.io/badge/ModelSim-FF6600?style=for-the-badge&logo=mentor&logoColor=white)
+![Cadence](https://img.shields.io/badge/Cadence-FF0000?style=for-the-badge&logo=cadence&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-0070C0?style=for-the-badge&logo=proteus&logoColor=white)
+![Multisim](https://img.shields.io/badge/Multisim-00A859?style=for-the-badge&logo=ni&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 **Other Tools:**
