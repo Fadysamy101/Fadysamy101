@@ -14,7 +14,9 @@ I'm a **Communication and Computer Electronics Engineering** student with a stro
 
 **Hardware Description Languages:**
 ![Verilog](https://img.shields.io/badge/Verilog-1E90FF?style=for-the-badge&logo=verilog&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-1E90FF?style=for-the-badge&logo=verilog&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-800080?style=for-the-badge&logo=vhdl&logoColor=white)
+![UVM](https://img.shields.io/badge/UVM-FF6600?style=for-the-badge&logo=uvm&logoColor=white)
 
 **Programming & Embedded:**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -78,4 +80,3 @@ I'm a **Communication and Computer Electronics Engineering** student with a stro
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fady-samy-a8a2a8326/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009245903018)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fadysamy101)
